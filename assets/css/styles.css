@@ -146,6 +146,7 @@ iframe {
   width: 36px;
   height: 36px;
   display: inline-block;
+
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
